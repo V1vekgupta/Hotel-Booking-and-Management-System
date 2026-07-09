@@ -294,8 +294,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — add a `LICENSE` file to formalize this if you intend to distribute the project.
-
+This project is licensed under the **MIT License**
 ---
 
 <div align="center">
